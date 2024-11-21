@@ -1,3 +1,3 @@
 # seminar-3
 
-Name Surname
+Name Surname - somelogin
